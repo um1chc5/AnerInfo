@@ -9,13 +9,6 @@ Hi, i'm a developer who is drifting through this vague idea of life
 [Facebook](https://www.facebook.com/um1chc5/)  
 [LinkedIn](https://www.linkedin.com/in/an-vu-100a2b1a6/)
 
-## 🔮 My stacks
-
-<a href="https://cuthanh.com">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=um1chc5&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=um1chc5&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
-</a>
-
 ### ⚙️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -29,3 +22,12 @@ Hi, i'm a developer who is drifting through this vague idea of life
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
+
+## 🔮 Repository Stat
+
+<a href="">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=um1chc5&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=um1chc5&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
+</a>
+
+
